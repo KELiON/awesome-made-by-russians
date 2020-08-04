@@ -67,6 +67,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[Centrifugo](https://github.com/centrifugal/centrifugo)** by [Alexander Emelin](https://github.com/FZambia)<br>
   Scalable real-time messaging server in language-agnostic way.
+  
+- **[Cerebro](https://github.com/KELiON/cerebro)** by [Alexandr Subbotin](https://github.com/KELiON)<br>
+  Cross-platform modular launcher app like Spotlight or Alfred.
 
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
